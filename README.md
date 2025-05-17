@@ -5,4 +5,4 @@
 4 - run main.py
 5 - good time :)
 ```
-![IMG_4940](https://github.com/fatemsh/snake_game/blob/main/Untitled.png)
+![IMG_4940](https://github.com/rozhanf/calculator/blob/main/Screenshot%20(4).png)
